@@ -58,7 +58,7 @@
     "@primer/octicons": "^18.2.0",
     "@types/css-modules": "^1.0.2",
     "@types/escape-html": "^1.0.2",
-    "@types/fuzzaldrin-plus": "^0.6.2",
+    "@types/fuzzaldrin-plus": "^0.6.5",
     "@types/html-minifier": "^4.0.2",
     "@types/lunr": "^2.3.4",
     "@types/node": "^18.15.3",
